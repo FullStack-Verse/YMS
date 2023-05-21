@@ -1,4 +1,5 @@
-How to run the GYM  Management System Project Using PHP and MySQL
+## How to run the Yoga Management System Project Using PHP and MySQL
+
 1.Download the zip file
 
 2.Extract the file and copy gym folder
